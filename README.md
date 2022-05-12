@@ -1,5 +1,5 @@
 # PracticaClase
 
-##Documentacion
+## Documentacion
 
 Archivo de descripcion de la practica
